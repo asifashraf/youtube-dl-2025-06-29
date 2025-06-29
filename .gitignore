@@ -2,6 +2,10 @@ output
 output/
 FileContentIndex/
 FileContentIndex
+.vs
+.vscode
+.vs/
+.vscode/
 *.pyc
 *.pyo
 *.class
