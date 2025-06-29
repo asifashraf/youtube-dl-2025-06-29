@@ -1,3 +1,7 @@
+output
+output/
+FileContentIndex/
+FileContentIndex
 *.pyc
 *.pyo
 *.class
